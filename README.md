@@ -1,1 +1,1 @@
-Codes for paper "Investigating the impact of climate changes on pollinator bee environmental suitability and risk map of pathogens in China"
+Codes for paper "Ecological modeling of pollinator bee habitat and pathogen risks under current and future climatic scenarios in China"
